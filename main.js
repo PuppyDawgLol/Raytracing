@@ -41,8 +41,8 @@ let world = new World([
 ])
 
 
-let width = 250
-let height = 250
+let width = 500
+let height = 500
 
 ctx.canvas.width = width
 ctx.canvas.height = height
